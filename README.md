@@ -7,7 +7,7 @@
 ![gambar](Screenshot/latihan1.png)
 
 ## Latihan 2
-# - Mmenjalankan 2 buah bilangan menggabungkan variable a dan b
+# - Menjalankan 2 buah bilangan menggabungkan variable a dan b
 1. Mendefisinikan variable a dengan nilai 8
 2. Mendifinisikan variable b dengan nilai 6
 3. Mencetak hasil penjumlahan a+b
